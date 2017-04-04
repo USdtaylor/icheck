@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USdtaylor/icheck2.git"
+    "url": "git+https://github.com/USdtaylor/icheck.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/USdtaylor/icheck2/issues"
+    "url": "https://github.com/USdtaylor/icheck/issues"
   },
-  "homepage": "https://github.com/USdtaylor/icheck2#readme"
+  "homepage": "https://github.com/USdtaylor/icheck#readme"
 }
