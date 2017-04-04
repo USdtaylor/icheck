@@ -1,0 +1,19 @@
+{
+  "name": "icheck2",
+  "version": "2.0.0",
+  "description": "#### This is a release candidate version, you may try to use it.",
+  "main": "icheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USdtaylor/icheck2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/USdtaylor/icheck2/issues"
+  },
+  "homepage": "https://github.com/USdtaylor/icheck2#readme"
+}
