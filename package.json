@@ -1,5 +1,5 @@
 {
-  "name": "icheck2",
+  "name": "icheck",
   "version": "2.0.0",
   "description": "#### This is a release candidate version, you may try to use it.",
   "main": "icheck.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USdtaylor/icheck2.git"
+    "url": "git+https://github.com/USdtaylor/icheck.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/USdtaylor/icheck2/issues"
+    "url": "https://github.com/USdtaylor/icheck/issues"
   },
-  "homepage": "https://github.com/USdtaylor/icheck2#readme",
+  "homepage": "https://github.com/USdtaylor/icheck#readme",
   "dependencies": {
     "jquery": "^3.2.1"
   }
