@@ -12,7 +12,7 @@
   // prevent multiple includes
   if (!win.ichecked) {
     win.ichecked = function() {
-      $ = win.jQuery || win.Zepto;
+      $ = win.jQuery;
 
       // default options
       var defaults = {
@@ -1024,7 +1024,7 @@
 
     // expose iCheck as an AMD module
     if (typeof define == 'function' && define.amd) {
-      define('icheck', [win.jQuery ? 'jquery' : 'zepto'], win.ichecked);
+      define('icheck', ['jquery'], win.ichecked);
     } else {
       win.ichecked();
     }
